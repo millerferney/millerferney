@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Miller%20Salcedo&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20|%20Software%20Developer%20|%20AI%20Research%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Miller%20Salcedo&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=39ff14&desc=AI%20Engineer%20|%20Software%20Developer%20|%20AI%20Research%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -18,7 +18,7 @@
 
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Exploring+the+path+to+AGI;Crafting+Scalable+Software;Obsessed+with+Consciousness+in+AI" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Exploring+the+path+to+AGI-ASI;Crafting+Scalable+Software;Obsessed+with+Consciousness+in+AI" />
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Exploring+the+path+to+AGI;Crafting+Scalable+Software;Obsessed+with+Consciousness+in+AI" alt="Typing SVG" />
     </picture>
   </a>
@@ -179,7 +179,7 @@ miller = {
 ---
 
 <div align="center">
-  <i>"Building intelligent systems while obsessing over the deeper question — what intelligence truly is."</i>
+  <i>"What is consciousness, where does it emerge — will machines ever truly wake… and what if everything we perceive is just a simulation..."</i>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
