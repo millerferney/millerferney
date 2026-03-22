@@ -19,7 +19,7 @@
   <a href="https://git.io/typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Exploring+the+path+to+AGI-ASI;Crafting+Scalable+Software;Obsessed+with+Consciousness+in+AI" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Exploring+the+path+to+AGI;Crafting+Scalable+Software;Obsessed+with+Consciousness+in+AI" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Exploring+the+path+to+AGI-ASI;Crafting+Scalable+Software;Obsessed+with+Consciousness+in+AI" alt="Typing SVG" />
     </picture>
   </a>
 
