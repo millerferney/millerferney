@@ -94,19 +94,19 @@ I'm deeply fascinated by the scientific and philosophical frontiers of AI. Not j
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20Integration-39ff14?style=for-the-badge&logo=openai&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-1d4ed8?style=for-the-badge&logo=openai&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-1d4ed8?style=for-the-badge&logo=openai&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prompt%20Engineering-39ff14?style=for-the-badge&logo=anthropic&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-1d4ed8?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1d4ed8?style=for-the-badge&logo=anthropic&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%20Agents-39ff14?style=for-the-badge&logo=probot&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-1d4ed8?style=for-the-badge&logo=probot&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-1d4ed8?style=for-the-badge&logo=probot&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RAG%20Pipelines-39ff14?style=for-the-badge&logo=databricks&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-1d4ed8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-1d4ed8?style=for-the-badge&logo=databricks&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 </div>
 
